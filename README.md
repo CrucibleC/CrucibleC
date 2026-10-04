@@ -1,16 +1,18 @@
-## Hi there 👋
+# The Crucible C Project
 
-<!--
-**CrucibleC/CrucibleC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Enter the refinery.*
 
-Here are some ideas to get you started:
+> “The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.”
+>
+> — Ted Nelson
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The Crucible C Project is a collection of tools and experiments exploring safer, clearer ways to write and reason about C.
+
+## Includes
+- AlloyCTranspiler (Prototype): adds extra keywords to C for safety and readability
+- IronCLib (Beta): a quick-and-easy drop-in header library for safer C code
+- WorkshopC (Public alpha soon available): a code parser for safer and clearer code to follow a mold of coding
+
+## Future
+- HammerC: a lightweight library for quick and simple code testing
+- SteelCLib: a bigger, better version of IronCLib with more flexibility at complexity cost
