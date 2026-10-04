@@ -1,7 +1,5 @@
 # The Crucible C Project
 
-*Enter the refinery.*
-
 > “The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.”
 >
 > — Ted Nelson
