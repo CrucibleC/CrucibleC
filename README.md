@@ -14,3 +14,10 @@ The Crucible C Project is a collection of tools and experiments exploring safer,
 ## Future
 - HammerC: a lightweight library for quick and simple code testing
 - SteelCLib: a bigger, better version of IronCLib with more flexibility at complexity cost
+
+## Contact
+For business inquiries, licensing requests, feedback, questions, or other matters related to this project, please reach out at:
+
+cruciblec.project@gmail.com
+
+If possible, please prefix the subject with a category such as [BUSINESS], [LICENSING], [FEEDBACK], or [QUESTION].
