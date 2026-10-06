@@ -8,7 +8,7 @@ The Crucible C Project is a collection of tools and experiments exploring safer,
 
 ## Includes
 - [AlloyC Transpiler (Prototype)](https://github.com/CrucibleC/AlloyC): adds extra keywords to C for safety and readability
-- [IronCLib (Beta)](https://github.com/CrucibleC/IronCLib): a quick-and-easy drop-in header library for safer C code
+- [IronCLib](https://github.com/CrucibleC/IronCLib): a quick-and-easy drop-in header library for safer C code
 - [WorkshopC (Closed Alpha)](https://github.com/CrucibleC/WorkshopC): a code parser for safer and clearer code to follow a mold of coding
 
 ## Contact
