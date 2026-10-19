@@ -8,8 +8,9 @@ The Crucible C Project is a collection of tools and experiments exploring safer,
 
 ## Includes
 - [WorkshopC](https://github.com/CrucibleC/WorkshopC): a code parser for safer and clearer code to follow a mold of coding
-- [IronCLib](https://github.com/CrucibleC/IronCLib): a quick-and-easy drop-in header library for safer C code
 - [HammerC](https://github.com/CrucibleC/HammerC): a lightweight library for quick and simple code testing
+- [Bouncing2D with WorkshopC](https://github.com/CrucibleC/Bouncing2D-with-WorkshopC): an example of a C codebase that is written with WorkshopC and HammerC
+- [IronCLib](https://github.com/CrucibleC/IronCLib): a quick-and-easy drop-in header library for safer C code
 
 ## Contact
 For business inquiries, licensing requests, feedback, questions, or other matters related to this project, please reach out at:
